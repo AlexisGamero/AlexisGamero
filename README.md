@@ -1,11 +1,9 @@
 Well... I don't know what to say, so... Let me start with the basics.
-¿Quieres una versión en español? [Aquí está](README-es.md).
-
 
 # Alexis Gamero
 
 ## About me
-I'm a student of the **Instituto Politécnico Nacional** in Mexico City. I'm studying the **Computer Systems Engineering** career at the **Escuela Superior de Cómputo**. I'm mostly on the 4th semester of the career. (Everyone that studied or is studying at some university knows that the real semester is kinda... confusing because the multiple subjects thing, so... Yeah!)
+I'm a student of the **Computer Systems Engineering** career. I'm mostly on the 4th semester of the career. (Everyone that studied or is studying at some university knows that the real semester is kinda... confusing because the multiple subjects thing, so... Yeah!)
 
 ## Programming languages
 - BASIC (My first programming language)
