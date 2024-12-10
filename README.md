@@ -1,7 +1,5 @@
 Well... I don't know what to say, so... Let me start with the basics.
 
-# Alexis Gamero
-
 ## About me
 I'm a student of the **Computer Systems Engineering** career. I'm mostly on the 4th semester of the career. (Everyone that studied or is studying at some university knows that the real semester is kinda... confusing because the multiple subjects thing, so... Yeah!)
 
